@@ -17,7 +17,7 @@ SmartAgriHealth is an IoT-based solution designed to improve efficiency and cont
 3. Upload the provided firmware to the ESP8266.
 
 ### Backend
-1. Clone the repository: `git clone https://github.com/your-repo/smartagrihealth.git`
+1. Clone the repository: `git clone https://github.com/Bansodeprasad/devXjmiphase1.git`
 2. Install dependencies: `cd backend && npm install`
 3. Start the server: `node server.js`
 
